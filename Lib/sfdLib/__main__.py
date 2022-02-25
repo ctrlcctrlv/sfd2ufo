@@ -1,7 +1,7 @@
 import argparse
 
 from ufoLib2 import Font
-from .parser import SFDParser
+from parser import SFDParser
 
 
 def main():

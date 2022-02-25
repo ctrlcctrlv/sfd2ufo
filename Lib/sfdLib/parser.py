@@ -6,7 +6,7 @@ import re
 from datetime import datetime
 from fontTools.misc.fixedTools import otRound
 
-from .utils import SFDReadUTF7
+from utils import SFDReadUTF7
 
 
 QUOTED_RE = re.compile('(".*?")')
